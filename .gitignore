@@ -1,0 +1,6 @@
+clipped_daily/
+shapefiles/
+weather_station_data/
+chirps_output/chirps_v3_south_africa.nc
+chirps_output/clipped_daily/
+.venv/
